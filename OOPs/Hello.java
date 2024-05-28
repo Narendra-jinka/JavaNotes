@@ -1,6 +1,7 @@
 class Hello{
-    public static void mian(String[] args){
+    public static void main(String[] args){
         System.out.print("happy coding");
+        System.out.println();
     }
 
 }
